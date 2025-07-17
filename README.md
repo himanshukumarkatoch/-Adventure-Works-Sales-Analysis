@@ -14,6 +14,11 @@ Understand customer behavior based on age, gender, income, and occupation
 
 Compare performance against defined business goals
 
+ 
+ <img width="1162" height="644" alt="Screenshot 2025-07-17 223743" src="https://github.com/user-attachments/assets/a913725b-7961-401a-9632-42768fc52ceb" />
+
+ 
+ 
  KPI Cards for:
 
 Total Revenue, Profit, Orders, and Returns
@@ -56,11 +61,18 @@ On the left, I’ve shown Total Orders by Category – Accessories, Bikes, and C
 •	"I created a visual that displays the Top 5 Subcategories based on Total Orders to highlight our best-performing product areas. This filter helps stakeholders quickly identify where the business is gaining the most traction.
 
 In second dasboard---
+
+<img width="1148" height="643" alt="Screenshot 2025-07-17 223757" src="https://github.com/user-attachments/assets/e68b681c-8bcb-478d-964f-108fb5bb1431" />
+
+
 This dashboard offers a time-series performance analysis of Adventure Works Cycles, focusing on revenue, profit, orders, and product returns from January 2015 to mid-2017. At the top, we display three key performance gauges: These KPIs are compared against their respective targets, providing quick insight into goal achievement. Below that, the line charts show trends over time — the ‘Total Profit’ visual demonstrates steady growth, with a notable spike in early 2017, indicating improved profitability. The Total Revenue line includes a forecasting trend line, showing consistent upward movement and future projections.
  these visuals offer a comprehensive and interactive view of the company's performance over time, making it easier for decision-makers to detect patterns, evaluate progress, and respond proactively.  
 
 
 In third dashboard-------  
+<img width="1165" height="648" alt="Screenshot 2025-07-17 223813" src="https://github.com/user-attachments/assets/733b86ca-3957-4dd1-94b7-9dc6a27dcb46" />
+
+
 This dashboard focuses on customer-level insights and order demographics for Adventure Works Cycles. At the top, we have three donut charts displaying total orders by gender, income level, and occupation. The data reveals a near-equal split between male and female customers, while income levels and job types are more varied, helping identify the most active customer segments.
  On the left, the customer detail table lists full names, total orders, and total revenue, giving a transactional view of individual contributions. The tree map in the center shows total orders by age, highlighting age groups like 57, 60, and 68 as major buyers. The main line chart on the right tracks total orders and revenue over time, showing steady growth with a sharp rise after mid-2016 — indicating improved customer acquisition and retention. At the bottom, there's a price adjustment slider, average vs. adjusted price comparison, and a summary of orders and revenue for a selected customers.
 This dashboard is designed to help the business understand its customers more deeply, tailor marketing efforts, and drive revenue by focusing on high-value demographics.  
